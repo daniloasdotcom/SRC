@@ -1,0 +1,68 @@
+img {
+    width: 40%;
+    height: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+head {
+    background-color: #4e2306;
+}
+
+body {
+    background-color: #4e2306;
+}
+
+label {
+  color: white;
+  padding: 8px;
+  font-family: cambria;
+}
+
+h1 {
+  font-family: cambria;
+  color: white;
+  padding: 8px;
+}
+
+p.lead {
+  font-family: cambria;
+  color: white;
+  padding: 8px;
+}
+
+input {
+  background-color: black;
+  font-family: cambria;
+  color: green;
+  padding: 8px;
+}
+
+input[type='submit']{
+  background-color: white;
+  font-family: cambria;
+  color: #4e2306;
+  padding: 8px;
+  border-color: white;
+}
+
+input:hover[type="submit"]{
+    background: #4e2306;
+    border-color: white;
+}
+
+h2 {
+    font-family: cambria;
+    color: white;
+}
+
+h3 {
+    font-family: cambria;
+    color: black;
+}
+
+h1 {
+    color: #4e2306
+}
